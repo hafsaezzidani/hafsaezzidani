@@ -128,15 +128,6 @@ Model evaluation and interpretation
 
 ---
 
-## GitHub Stats
-
-
-![Hafsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafsaezzidani&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsaezzidani&layout=compact&theme=tokyonight)
-
----
-
 ## Volunteering & Leadership
 
 ### Communication Lead — INSEA Innovation Edge
