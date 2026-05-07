@@ -1,4 +1,4 @@
-# Hi there, I'm Hafsa 👋
+# Hi there, I'm Hafsa
 
 ```python
 class HafsaEzzidani:
