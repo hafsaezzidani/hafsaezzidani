@@ -12,12 +12,6 @@ class HafsaEzzidani:
             "AI Engineering",
             "Data Visualization"
         ]
-        self.current_focus = [
-            "Spam Detection Systems",
-            "ARIMA Forecasting",
-            "Sustainable Development Indicators"
-        ]
-
     def say_hi(self):
         print("Thanks for visiting my GitHub profile ")
 ```
