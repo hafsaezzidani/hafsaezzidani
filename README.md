@@ -124,7 +124,7 @@ Model evaluation and interpretation
 
 ## Volunteering & Leadership
 
-### Communication Lead — INSEA Innovation Edge
+### Communication Lead INSEA Innovation Edge
 
 - Managed internal and external communication for club events
 - Supported event visibility across schools and student communities
