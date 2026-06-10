@@ -6,6 +6,7 @@ class HafsaEzzidani:
         self.role = "Data Science Student @ INSEA"
         self.location = "Casablanca, Morocco"
         self.interests = [
+            "Agentic AI (LLM agents, RAG, tool-use)",
             "Machine Learning",
             "Natural Language Processing",
             "Time Series Forecasting",
@@ -38,6 +39,14 @@ class HafsaEzzidani:
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
 
+### LLMs & AI Agents
+
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge)
+![Tool Use](https://img.shields.io/badge/Tool%20Use-000000?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=white)
+
 ### Machine Learning & Data Science
 
 ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
@@ -63,6 +72,24 @@ class HafsaEzzidani:
 ---
 
 ##  Featured Projects
+
+### Churn Analyst Agent — Agentic AI
+
+An **LLM agent** that answers telecom customer-churn questions in plain language by autonomously deciding which tools to call.
+
+- Built an **agent loop** with native LLM tool-use (no heavy framework): it plans, calls tools, chains them, then answers
+- Equipped it with **analytics tools** (live pandas computations on the data) and a **RAG tool** (semantic retrieval over a knowledge base with sentence-transformers)
+- Wrapped my own **logistic-regression churn model** as a `predict_churn` tool to score new or hypothetical customers
+- Added a lightweight **evaluation harness** and a **Streamlit** chat UI
+
+```text
+Stack : OpenAI API · RAG · sentence-transformers · scikit-learn · Streamlit
+Skills: tool-use · planning · RAG · memory · model evaluation
+```
+
+🔗 [View the project](https://github.com/hafsaezzidani/churn-analyst-agent)
+
+---
 
 ### SMS Spam Detection System
 
@@ -112,6 +139,7 @@ Internship project at the **Haut-Commissariat au Plan - HCP**.
 ## What I Like Working On
 
 ```text
+Agentic AI (LLM agents, RAG, tool-use)
 Machine Learning pipelines
 NLP classification systems
 Time series forecasting
